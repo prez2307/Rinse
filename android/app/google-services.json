@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932755574962",
+    "project_id": "gambling-seocn4",
+    "storage_bucket": "gambling-seocn4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932755574962:android:579f1f0912747f1fbeb9ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.gambling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsVt-OWe_SZFnNvEJ0Ga0wffdob7gvgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
